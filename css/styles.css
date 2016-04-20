@@ -1,0 +1,11 @@
+.navbar.navbar-default{
+    margin-bottom: 0;
+}
+
+#topotron{
+    background-image: url("../img/tree.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
